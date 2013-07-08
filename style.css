@@ -1,0 +1,34 @@
+/*
+Theme Name:     The Junto
+Template:       p2
+Theme URI:      http://github.com/bsima/junto
+Description:    The Junto's first proprietary theme. Awww yeahhhh. 
+Author:         Ben Sima 
+Author URI:     http://bensima.com                            
+Version:        0.1.0
+******************************************************************
+** This is a child theme of P2, which must be installed in the  **
+** theme wp-content/themes directory to work.                   **
+******************************************************************
+
+
+
+@TODO Create a simpler way to handle privatization of the site. Ideally
+  write a custom functions.php that handles everything. Some ideas:
+  * Make a /public page in WordPress. Every sub-page of that page,
+    then, will be publically viewable.
+
+
+@TODO Make a custom stylesheet for this theme. Something classy, but clean too
+
+
+@TODO Make better profile pages. Make a template page and custom css design 
+
+
+*/
+
+@import url("../p2/style.css");
+
+
+
+
