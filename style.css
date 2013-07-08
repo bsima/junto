@@ -30,6 +30,8 @@ Version:           0.1.0
 
 @import url("../p2/style.css");
 
-
+.page .postcontent {
+	padding-left: 60px;
+}
 
 
